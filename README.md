@@ -3,6 +3,7 @@ React Native Template for initial project.
 
 
 Libraries in this template :
+
     "@react-native-async-storage/async-storage": "^1.15.4",
     "@react-native-community/checkbox": "^0.5.7",
     "@react-native-community/masked-view": "^0.1.10",
